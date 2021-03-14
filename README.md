@@ -1,2 +1,3 @@
 # nodejs-file-uploader
-Implementação de upload de arquivos para o Amazon S3
+
+Implementação de upload de arquivos localmente e para serviços externos.
